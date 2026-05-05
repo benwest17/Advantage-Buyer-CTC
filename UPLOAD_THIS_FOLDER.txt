@@ -1,0 +1,20 @@
+Upload the files inside this folder directly to the root of the GitHub repo.
+
+After upload, GitHub should show these files at the top level:
+
+App.tsx
+index.css
+index.html
+main.tsx
+package.json
+postcss.config.js
+tailwind.config.js
+tsconfig.json
+vite.config.ts
+
+Important:
+Do not upload the zip file itself.
+Do not upload the containing folder as a nested folder.
+Open this folder, select the files inside it, and upload those files.
+
+This root-only version does not need a src folder.
